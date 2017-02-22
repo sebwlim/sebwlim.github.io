@@ -1,0 +1,14 @@
+<!DOCTYPE = html>
+
+<html>
+<head>
+	<title>Sebastian W. Lim</title>
+</head>
+<body>
+	<div class=“container”>
+		<header>
+			<h1> Sebastian Lim</h1>
+      <div class = "content">
+        <h1> Healthcare. Tech. Design. </h1>
+        <p> This is my personal site </p>
+</html>
